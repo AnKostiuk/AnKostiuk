@@ -7,10 +7,6 @@
 
 ---
 
-<a href="https://github.com/AnKostiuk/theory/tree/main](https://drive.google.com/file/d/1qu4YDU6ftserOAcGbgRYatiJKLFHqQXx/view?usp=sharing">Мое резюме</a>
-
----
-
 ### 👩‍💻 Обо мне:
 - 🔧 Занимаюсь мануальным тестированием  
 - ⚙️ Тестирую веб-сервисы, мобильные приложения и API на разных этапах разработки  
