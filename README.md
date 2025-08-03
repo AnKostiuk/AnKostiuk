@@ -1,5 +1,10 @@
 ## Привет, меня зовут Анастасия 👋
 
+
+---
+
+### <a href="https://github.com/AnKostiuk/theory/tree/main](https://drive.google.com/file/d/1qu4YDU6ftserOAcGbgRYatiJKLFHqQXx/view?usp=sharing">Мое резюме</a>
+
 ---
 
 <a href="https://github.com/AnKostiuk/theory/tree/main](https://drive.google.com/file/d/1qu4YDU6ftserOAcGbgRYatiJKLFHqQXx/view?usp=sharing">Мое резюме</a>
